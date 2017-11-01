@@ -18,7 +18,8 @@ import { ShoppingListComponent } from './shopping-list/shopping-list.component';
     RecipeDetailComponent,
     RecipeListComponent,
     RecipeItemComponent,
-    ShoppingEditComponent
+    ShoppingEditComponent,
+    RecipeItemComponent
 ],
   imports: [
     BrowserModule
