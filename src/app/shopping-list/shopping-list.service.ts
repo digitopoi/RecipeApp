@@ -9,4 +9,8 @@ export class ShoppingListService {
 
     constructor() { }
 
+    getIngredients() {
+        return this.ingredients.slice();
+    }
+
 }
